@@ -1,4 +1,4 @@
-= Docker image running Supervisor on Alpine Linux
+# Docker image running Supervisor on Alpine Linux
 
 [Alpine Linux](https://alpinelinux.org/)
 based [Docker](https://www.docker.com/)
