@@ -12,7 +12,7 @@ Supervisord.
 Pull the image from [Dockerhub]():
 
 ```
-docker pull mjuenema/alpine-supervisord
+docker pull mjuenema/alpine-supervisor
 ```
 
 The Supervisor configuration file included in the image does not
@@ -22,7 +22,7 @@ configuration files into that directory and the program will be
 controlled by Supervisord.
 
 ```
-FROM mjuenema/alpine-supervisord
+FROM mjuenema/alpine-supervisor
 
 RUN ...
 
