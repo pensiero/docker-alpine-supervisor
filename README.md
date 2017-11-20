@@ -26,6 +26,10 @@ Markus Juenemann <markus@juenemann.net>
 
 ## Changelog
 
+### `0.2`
+
+Added `example.conf`.
+
 ### `0.1`
 
 Initial release.
