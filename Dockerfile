@@ -1,5 +1,4 @@
-
-FROM alpine
+FROM alpine:3.7
 
 MAINTAINER Markus Juenemann <markus@juenemann.net>
 
